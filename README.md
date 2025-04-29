@@ -1,4 +1,4 @@
-<h1 align="center">I am Void</h1>
+<h1 align="center">I am Moses Oni {ImVoid01}</h1>
 <h3 align="center">Data Analyst | SQL Wizard | Insight Hunter</h3>
 
 <p align="center">
@@ -14,8 +14,8 @@ Hi, I'm **Moses Oni**, a data analyst who thrives at the edge of chaos.
 From Nigeria to Texas, I’ve turned messy data into actionable insights, optimized systems, and helped teams make smarter decisions.  
 I’m fluent in SQL, Python, Tableau, and Excel — and I use them like a scalpel, not a hammer.
 
-📍 Currently in Irving, TX  
-📫 Reach me at: oni.moses01@gmail.com  
+📍 Based in Irving, TX  
+📫 Email: oni.moses01@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/oni-moses-o/)
 
 ---
@@ -54,11 +54,12 @@ Projects in data cleaning, visualization, SQL, Tableau
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Live GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImVoid&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImVoid&layout=compact&theme=dark" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ImVoid01&show_icons=true&theme=radical" alt="Moses Oni GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImVoid01&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ImVoid01&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
