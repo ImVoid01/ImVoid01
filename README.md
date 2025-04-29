@@ -1,4 +1,4 @@
-<h1 align="center">I am Moses Oni {ImVoid01}</h1>
+<h1 align="center">I am Moses Oni  <small>aka "ImVoid01"</small><h1>
 <h3 align="center">Data Analyst | SQL Wizard | Insight Hunter</h3>
 
 <p align="center">
